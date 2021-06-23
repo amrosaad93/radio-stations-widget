@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(189, 145, 26);
+  border-radius: 10px 10px 0px 0px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.title {
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

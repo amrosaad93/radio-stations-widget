@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  padding: 0px 20px;
+  flex-direction: column;
+  background-color: rgb(54, 54, 54);
+  height: 320px;
+  width: 300px;
+  color: white;
+  overflow-y: scroll;
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 280px;
+  }
+}
+
+@media (max-width: 300px) {
+  .container {
+    width: 220px;
+  }
+}

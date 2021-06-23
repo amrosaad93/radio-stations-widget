@@ -1,0 +1,32 @@
+.singleStation {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0px;
+  border-bottom: 1px solid rgb(189, 189, 189);
+}
+
+h3 {
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(189, 189, 189);
+}
+
+.frequency {
+  font-weight: 800;
+}
+
+.image {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  border: 1px solid gray;
+}
+
+.details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 10px;
+}
