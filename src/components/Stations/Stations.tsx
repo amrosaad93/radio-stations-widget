@@ -70,7 +70,7 @@ const Stations: React.FC = () => {
                   transition={{ duration: 0.5 }}
                 >
                   <BsDashCircle size={30} color="gray" cursor="pointer" />
-                  <img className={StationsCSS.image} src={station.image} alt="station" />
+                  <img className={StationsCSS.image} src={station.image} alt={station.name} />
                   <BsPlusCircle size={30} color="gray" cursor="pointer" />
                 </motion.div>
               )}

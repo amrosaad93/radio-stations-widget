@@ -6,7 +6,9 @@ const Header: React.FC = () => {
   return (
     <div className={HeaderCSS.header}>
       <BsChevronLeft size={30} />
-      <h2 className={HeaderCSS.title}>Stations</h2>
+      <h2 data-testid="title" className={HeaderCSS.title}>
+        Stations
+      </h2>
       <BsPower size={30} />
     </div>
   );
