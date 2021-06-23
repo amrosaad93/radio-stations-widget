@@ -16,7 +16,7 @@ This project uses an API created with NodeJS as a backend to fetch the list of r
 
 ### Check the deployed project:
 
-A deployed verion of the project is already hosted on Netlify, you can check it [from this link.]()
+A deployed verion of the project is already hosted on Netlify, you can check it [from this link.](https://radio-stations-widget.netlify.app/)
 
 ### Instructions to setup and run the project:
 
