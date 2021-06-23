@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { useAppDispatch } from "../app/hooks";
-import { setCurrentStation } from "../app/station";
+import { useAppDispatch } from "../../app/hooks";
+import { setCurrentStation } from "../../app/station";
 import { BsPlusCircle, BsDashCircle } from "react-icons/bs";
 import StationsCSS from "./Stations.module.css";
 import { motion } from "framer-motion";

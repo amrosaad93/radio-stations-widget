@@ -1,6 +1,6 @@
 import React from "react";
 import FooterCSS from "./Footer.module.css";
-import { useAppSelector } from "../app/hooks";
+import { useAppSelector } from "../../app/hooks";
 
 const Header: React.FC = () => {
   const station = useAppSelector((state) => state.station.station);

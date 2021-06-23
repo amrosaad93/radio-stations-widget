@@ -1,9 +1,8 @@
 import React from "react";
-import "./App.css";
-import RadioContainer from "./components/RadioContainer";
-import Header from "./components/Header";
-import Stations from "./components/Stations";
-import Footer from "./components/Footer";
+import RadioContainer from "./components/RadioContainer/RadioContainer";
+import Header from "./components/Header/Header";
+import Stations from "./components/Stations/Stations";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
