@@ -16,7 +16,7 @@ This project uses an API created with NodeJS as a backend to fetch the list of r
 
 ### Check the deployed project:
 
-A deployed verion of the project is already hosted on Netlify, you can check it [from this link.](https://radio-stations-widget.netlify.app/)
+A deployed verion of the project is already hosted on Heroku, you can check it [On Heroku Here](https://mysterious-plateau-50860.herokuapp.com/)
 
 ### Instructions to setup and run the project:
 
